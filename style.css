@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #ffedd5; /* hex: 0-F */
+  background-color: #c0bcc7; /* hex: 0-F */
   font-family: 'Roboto', sans-serif;
 }
 
@@ -14,13 +14,10 @@ ul {
 }
 
 /* FONTS */
-h1,
-h2,
-h3,
-.price {
+h1, h2, h3, .price {
   font-family: 'Roboto Serif', serif;
   text-transform: uppercase;
-  color: #2d2c2a;
+  color: #2D2C2A;
 }
 
 /* HEADER */
@@ -58,7 +55,7 @@ section {
 }
 
 section h2 {
-  background-color: #fed7aa;
+  background-color: #f3e3d4;
   padding: 8px 16px;
   text-align: center;
 
